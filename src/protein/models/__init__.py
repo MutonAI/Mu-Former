@@ -1,0 +1,1 @@
+from .pmlm import ProtPairwiseModel
